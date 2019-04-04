@@ -2,7 +2,7 @@
 
 :Autor: Fabricio Lima
 
-:Email: limafabricio62@gmail.com / fabricio_lima_carvalho@hotmail.com
+:Email: fabricio_lima_carvalho@hotmail.com
 
 :Data: 01/06/2016
 
@@ -45,4 +45,4 @@ Carregue a programacao para o arduino
 
 === Contribuicoes
 
-Para contribuir com esse projeto, por favor contate Fabricio Lima - limafabricio62@gmail.com / fabricio_lima_carvalho@hotmail.com
+Para contribuir com esse projeto, por favor contate Fabricio Lima - fabricio_lima_carvalho@hotmail.com
