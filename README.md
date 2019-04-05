@@ -25,9 +25,9 @@ Carregue a programacao para o arduino
 
 ....
 
- Programacao_arduino          => Pasta da programação do Arduino 
+ Programacao_arduino          => Pasta da programação do arduino 
  
- +-- Programacao_arduino.ino  => Arquivo principal do Arduino 
+ +-- Programacao_arduino.ino  => Arquivo principal do arduino 
  
  Esquema eletrico.pdf         => (opcional) Esquema elétrico para montagem do circuito
  
