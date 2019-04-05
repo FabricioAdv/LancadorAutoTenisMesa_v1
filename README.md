@@ -1,20 +1,15 @@
 # Lancador de bolinhas de tenis de mesa - V1
-Este projeto tem como funcao auxiliar jogadores de tenis de mesa a treinarem seus recebimentos de "saques" quando estiverem sem a ajuda de um outro jogador.
+Este projeto tem como função auxiliar jogadores de tênis de mesa a treinarem seus recebimentos de "saques" quando estiverem sem a ajuda de um outro jogador.
 
-:Autor: Fabricio Lima
+:Autor: Fabricio Lima </br>
+:Email: fabricio_lima_carvalho@hotmail.com </br>
+:Data: 01/06/2016 </br>
+:Revisão: 1.0 </br>
 
-:Email: fabricio_lima_carvalho@hotmail.com
-
-:Data: 01/06/2016
-
-:Revisao: 1.0
-
-= Projeto: Lancador de bolinhas de tenis de mesa
-
-== Passo 1: Instalacao
+== Passo 1: Instalação
 
 1. Abra o arquivo "Programacao_arduino";
-2. Faca as modificacoes necesserias para que se adequem a montagem de sua estrutura de lancamento;
+2. Faça as modificações necessárias para que se adequem a montagem de sua estrutura de lancamento;
 
 == Passo 2: Montagem do circuito
 
@@ -30,16 +25,16 @@ Carregue a programacao para o arduino
 
 ....
 
- Programacao_arduino          => Pasta da programacao do Arduino 
+ Programacao_arduino          => Pasta da programação do Arduino 
  
  +-- Programacao_arduino.ino  => Arquivo principal do Arduino 
  
- Esquema eletrico.pdf         => (opcional) Esquema eletrico para montagem do circuito
+ Esquema eletrico.pdf         => (opcional) Esquema elétrico para montagem do circuito
  
  README.md                    => Este arquivo
  
 ....
 
-=== Contribuicoes
+=== Contribuições
 
 Para contribuir com esse projeto, por favor contate Fabricio Lima - fabricio_lima_carvalho@hotmail.com
