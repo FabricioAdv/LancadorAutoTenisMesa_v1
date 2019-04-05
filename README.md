@@ -9,7 +9,7 @@ Este projeto tem como função auxiliar jogadores de tênis de mesa a treinarem 
 == Passo 1: Instalação
 
 1. Abra o arquivo "Programacao_arduino";
-2. Faça as modificações necessárias para que se adequem a montagem de sua estrutura de lancamento;
+2. Faça as modificações necessárias para que se adequem a montagem de sua estrutura de lançamento;
 
 == Passo 2: Montagem do circuito
 
@@ -28,7 +28,7 @@ Carregue a programacao para o arduino
  Programacao_arduino          => Pasta da programação do arduino </br>
  +-- Programacao_arduino.ino  => Arquivo principal do arduino 
  
- Esquema eletrico.pdf         => (opcional) Esquema elétrico para montagem do circuito
+ Esquema eletrico.pdf         => Esquema elétrico para montagem do circuito
  
  README.md                    => Este arquivo
  
