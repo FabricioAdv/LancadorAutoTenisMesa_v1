@@ -1,4 +1,4 @@
-# Lancador de bolinhas de tenis de mesa - V1
+# Lancador de bolinhas de tênis de mesa - V1
 Este projeto tem como função auxiliar jogadores de tênis de mesa a treinarem seus recebimentos de "saques" quando estiverem sem a ajuda de um outro jogador.
 
 :Autor: Fabricio Lima </br>
